@@ -5,3 +5,8 @@ based on [Chapter 3](https://infx511.github.io/git-basics.html)
 of the [Introduction to Programming for Information and Data Science](https://infx511.github.io/) course book. 
 
 Solutions can be found in the `solution` branch.
+
+starships were made to fly
+hands up and touch the sky
+can't stop cause we're so high
+let's do this one more time
